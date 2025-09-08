@@ -145,9 +145,9 @@ export default function Home() {
               <div className="md:w-2/3">
                 <h3 className="text-2xl font-bold mb-4">Empresa X reduziu 50% do custo e lançou seu app em 30 dias</h3>
                 <p className="text-gray-600">
-                  "A Cerebrum nos ajudou a transformar nossa ideia em um produto real em tempo recorde. 
+                  &quot;A Cerebrum nos ajudou a transformar nossa ideia em um produto real em tempo recorde. 
                   A abordagem ágil e o foco em resultados nos permitiram economizar recursos e lançar 
-                  mais rápido do que imaginávamos ser possível."
+                  mais rápido do que imaginávamos ser possível.&quot;
                 </p>
               </div>
             </div>
