@@ -4,8 +4,10 @@ https://landingpage-two-liart.vercel.app/
 
 ## FERRAMENTAS UTILIZADAS
 
-- [Trae.ai](https://www.trae.ai/) - IDE de desenvolvimento com IA
-- [Vercel](https://vercel.com/) - Hospedagem integrada automaticamente com Github
+- [CHATGPT](https://chatgpt.com/) - apoio para criar o PRD (Product Requirement Document)
+- [Trae.ai](https://www.trae.ai/) - IDE para desenvolvimento com Vibe Code
+- [Vercel](https://vercel.com/) - hospedagem e deploy rápido.
+- [Github](https://github.com/) - versionamento e automação da publicação.
 
 ## PROCESSO DE DESENVOLVIMENTO
 
