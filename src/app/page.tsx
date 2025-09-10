@@ -49,11 +49,7 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
-                <div className="absolute -bottom-4 -right-4 w-32 h-64 bg-gray-100 rounded-lg shadow-lg">
-                  <div className="h-full w-full bg-gray-200 rounded-lg flex items-center justify-center">
-                    <p className="text-gray-500 transform rotate-90">Mobile</p>
-                  </div>
-                </div>
+
               </div>
             </div>
           </div>
